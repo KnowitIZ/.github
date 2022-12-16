@@ -12,7 +12,7 @@ Welcome to the GitHub for Knowit Innovation Zone! Here we strive to contribute w
 
 Naming rule: \<typeOfProject\>-\<projectOffice\>-\<projectName\>-\<optional\>
 
-Example: iz-kista-demoCar-dataLogger-iosApp-main
+Example: iz-kista-demoCar-dataLogger-iosApp
 
 <!--
 
